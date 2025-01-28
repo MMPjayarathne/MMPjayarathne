@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masith Pramuditha</h1>
-<h3 align="center">I am a Software Engineering undergraduate from Sri Lanka driven by a deep passion for technology and innovation. With boundless enthusiasm, I embrace challenges and approach each endeavor with wonder and determination. Collaboration is my forte, and I thrive in team environments, valuing diverse perspectives.</h3>
+<h3 align="center">I am a Software Engineer from Sri Lanka driven by a deep passion for technology and innovation. With boundless enthusiasm, I embrace challenges and approach each endeavor with wonder and determination. Collaboration is my forte, and I thrive in team environments, valuing diverse perspectives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmpjayarathne&label=Profile%20views&color=0e75b6&style=flat" alt="mmpjayarathne" /> </p>
 
