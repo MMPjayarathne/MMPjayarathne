@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, .NET**
 
-- 👨‍💻 All of my projects are available at [https://masithpramuditha.netlify.app/](https://masithpramuditha.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio - Masith](https://portfolio-masith.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@pramudithajayarathna](https://medium.com/@pramudithajayarathna)
 
